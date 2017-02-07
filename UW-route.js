@@ -17,7 +17,9 @@ var UWRoute = function (apiKey){
 UWRoute.prototype.getAbsoluteLocation = function (abbr){
 	for(var i = 0; i < this.buildingList.features.length; i++){
 		if(this.buildingList.features[i].attributes.faccode == abbr){
-			return this.buildingList.features[i].geometry.coordinates;
+			if(this.buildingList.features[i].geometry.hasOwnProperty('coordinates')){
+				return this.buildingList.features[i].geometry.coordinates;
+			}
 		}
 	}
 
