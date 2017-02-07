@@ -1,5 +1,5 @@
 // @Author: Daniel Wang (JIUN-CHENG WANG)
-// @Description: This module is mainly used to analysis the location relationship on campus
+// @Description: This module is mainly contains geographical data on campus
 // 2017/01/31
 'use strict';
 /* For testing and reference purpose */
