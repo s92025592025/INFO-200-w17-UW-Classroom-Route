@@ -1,37 +1,5 @@
 [
     {
-        "name": "668 NE Northlake Way",
-        "objectid": 14
-    },
-    {
-        "name": "664 NE Northlake Way",
-        "objectid": 15
-    },
-    {
-        "name": "UW Tower Building T",
-        "objectid": 16
-    },
-    {
-        "name": "UW Tower Building O",
-        "objectid": 17
-    },
-    {
-        "name": "UW Tower Building C",
-        "objectid": 18
-    },
-    {
-        "name": "UW Tower Building S",
-        "objectid": 19
-    },
-    {
-        "name": "4328 Brooklyn Avenue NE (UW TOWER BUILDING A)",
-        "objectid": 20
-    },
-    {
-        "name": "Collegiana",
-        "objectid": 21
-    },
-    {
         "name": "3945 15th Avenue NE",
         "objectid": 22
     },
@@ -46,10 +14,6 @@
     {
         "name": "Gate 7 Columbia Road",
         "objectid": 25
-    },
-    {
-        "name": "Allen Center for CSE",
-        "objectid": 26
     },
     {
         "name": "Roosevelt Commons E",
@@ -76,44 +40,16 @@
         "objectid": 32
     },
     {
-        "name": "Raitt Hall",
-        "objectid": 33
-    },
-    {
-        "name": "Kirsten Wind Tunnel",
-        "objectid": 34
-    },
-    {
-        "name": "Smith Hall",
-        "objectid": 35
-    },
-    {
         "name": "Blakeley Village Complex A",
         "objectid": 36
-    },
-    {
-        "name": "Art Building",
-        "objectid": 37
     },
     {
         "name": "Botany Greenhouse",
         "objectid": 38
     },
     {
-        "name": "Aerospace and Engineering Research Building",
-        "objectid": 39
-    },
-    {
-        "name": "John M Wallace Hall",
-        "objectid": 40
-    },
-    {
         "name": "Stadium Concession 9",
         "objectid": 41
-    },
-    {
-        "name": "Wilson Ceramics Lab",
-        "objectid": 42
     },
     {
         "name": "Gate 3 Pend Oreille",
