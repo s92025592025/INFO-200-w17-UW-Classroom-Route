@@ -52,5 +52,46 @@ UWRoute.prototype.getAddress = function (abbr){
 	return address;
 }
 
+// pre: should give start and end the abbreviation of the buildings, and enter mode of choice.
+//		mode only have option "driving", "walking", "bicycling", "transit", default will be
+//		"walking"
+// post: will return the estimate travel time, or otherwise return returned status instead
+UWRoute.prototype.getTravelTime = function (start, end, mode = "walking"){
+	var response = new XMLHttpRequest();
+	var travelTime = "Travel time not available";
+	start = this.getAbsoluteLocation(start);
+	end = this.getAbsoluteLocation(end);
+	mode = mode.toLowerCase();
+
+	// check if proper location is returned
+	if(start.constructor !== {}.constructor || end.constructor !== {}.constructor){
+		return "One of the location not available";
+	}
+
+	// check if proper mode is specified
+	if(mode != "driving" || mode != "bicycling" || mode != "transit"){
+		mode = "walking";
+	}
+
+	response.open('GET', this.BASE + 'directions/json?' +
+						 'key=' + this._apiKey + 
+						 '&origin=' + start.lat + ',' + start.lng +
+						 '&destination=' + end.lat + ',' + end.lng +
+						 '&mode=' + mode
+				  , false);
+	response.onload = function (){
+		var response = JSON.parse(this.responseText);
+		if(response.status == 'OK'){
+			travelTime = response.routes[0].legs[0].duration.text;
+		}else{
+			travelTime = response.status;
+		}
+	}
+
+	response.send();
+
+	return travelTime;
+}
+
 // export
 module.exports = UWRoute;
