@@ -1,89 +1,5 @@
 [
     {
-        "name": "Pavilion Pool",
-        "objectid": 1
-    },
-    {
-        "name": "3935 University Way NE",
-        "objectid": 2
-    },
-    {
-        "name": "Ethnic Cultural Theater",
-        "objectid": 3
-    },
-    {
-        "name": "3930 Brooklyn NE",
-        "objectid": 4
-    },
-    {
-        "name": "Magnuson Health Sciences Center H",
-        "objectid": 5
-    },
-    {
-        "name": "Magnuson Health Sciences Center G",
-        "objectid": 6
-    },
-    {
-        "name": "Magnuson Health Sciences Center F",
-        "objectid": 7
-    },
-    {
-        "name": "Magnuson Health Sciences Center RR",
-        "objectid": 8
-    },
-    {
-        "name": "UW Medical Center SS",
-        "objectid": 9
-    },
-    {
-        "name": "UW Medical Center EE",
-        "objectid": 10
-    },
-    {
-        "name": "UW Medical Center CC",
-        "objectid": 11
-    },
-    {
-        "name": "Mechanical Engineering Building",
-        "objectid": 12
-    },
-    {
-        "name": "Engineering Annex",
-        "objectid": 13
-    },
-    {
-        "name": "668 NE Northlake Way",
-        "objectid": 14
-    },
-    {
-        "name": "664 NE Northlake Way",
-        "objectid": 15
-    },
-    {
-        "name": "UW Tower Building T",
-        "objectid": 16
-    },
-    {
-        "name": "UW Tower Building O",
-        "objectid": 17
-    },
-    {
-        "name": "UW Tower Building C",
-        "objectid": 18
-    },
-    {
-        "name": "UW Tower Building S",
-        "objectid": 19
-    },
-    {
-        "name": "4328 Brooklyn Avenue NE (UW TOWER BUILDING A)",
-        "objectid": 20
-    },
-    {
-        "name": "Collegiana",
-        "objectid": 21
-    },
-    {
         "name": "3945 15th Avenue NE",
         "objectid": 22
     },
@@ -98,10 +14,6 @@
     {
         "name": "Gate 7 Columbia Road",
         "objectid": 25
-    },
-    {
-        "name": "Allen Center for CSE",
-        "objectid": 26
     },
     {
         "name": "Roosevelt Commons E",
@@ -128,64 +40,20 @@
         "objectid": 32
     },
     {
-        "name": "Raitt Hall",
-        "objectid": 33
-    },
-    {
-        "name": "Kirsten Wind Tunnel",
-        "objectid": 34
-    },
-    {
-        "name": "Smith Hall",
-        "objectid": 35
-    },
-    {
         "name": "Blakeley Village Complex A",
         "objectid": 36
-    },
-    {
-        "name": "Art Building",
-        "objectid": 37
     },
     {
         "name": "Botany Greenhouse",
         "objectid": 38
     },
     {
-        "name": "Aerospace and Engineering Research Building",
-        "objectid": 39
-    },
-    {
-        "name": "John M Wallace Hall",
-        "objectid": 40
-    },
-    {
         "name": "Stadium Concession 9",
         "objectid": 41
     },
     {
-        "name": "Wilson Ceramics Lab",
-        "objectid": 42
-    },
-    {
         "name": "Gate 3 Pend Oreille",
         "objectid": 43
-    },
-    {
-        "name": "Wilcox Hall",
-        "objectid": 44
-    },
-    {
-        "name": "Conibear Shellhouse",
-        "objectid": 45
-    },
-    {
-        "name": "Aerodynamics Laboratory",
-        "objectid": 46
-    },
-    {
-        "name": "Plant Lab",
-        "objectid": 47
     },
     {
         "name": "NW Horticultural Society Hall",
@@ -202,10 +70,6 @@
     {
         "name": "Jones Playhouse",
         "objectid": 51
-    },
-    {
-        "name": "Clark Hall",
-        "objectid": 52
     },
     {
         "name": "Plant Lab Annex 2 (A, B & C)",
