@@ -52,6 +52,10 @@
         "objectid": 72
     },
     {
+        "name": "Marine Sciences",
+        "objectid": 74
+    },
+    {
         "name": "Hitchcock Hall",
         "objectid": 75
     },
@@ -254,6 +258,10 @@
     {
         "name": "Denny Hall",
         "objectid": 301
+    },
+    {
+        "name": "Jacobsen Observatory",
+        "objectid": 302
     },
     {
         "name": "Social Work & Speech and Hearing",
