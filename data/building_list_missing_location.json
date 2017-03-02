@@ -1,37 +1,5 @@
 [
     {
-        "name": "Magnuson Health Sciences Center H",
-        "objectid": 5
-    },
-    {
-        "name": "Mechanical Engineering Building",
-        "objectid": 12
-    },
-    {
-        "name": "Allen Center for CSE",
-        "objectid": 26
-    },
-    {
-        "name": "Raitt Hall",
-        "objectid": 33
-    },
-    {
-        "name": "Smith Hall",
-        "objectid": 35
-    },
-    {
-        "name": "Art Building",
-        "objectid": 37
-    },
-    {
-        "name": "John M Wallace Hall",
-        "objectid": 40
-    },
-    {
-        "name": "Clark Hall",
-        "objectid": 52
-    },
-    {
         "name": "Douglas Research Conservatory",
         "objectid": 56
     },
